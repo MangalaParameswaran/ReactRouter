@@ -17,11 +17,11 @@ function App() {
     month:"January"
   },
   {
-    image:"https://media.licdn.com/dms/image/D5612AQG8dtGvMOsurw/article-cover_image-shrink_720_1280/0/1680236915251?e=2147483647&v=beta&t=n9UiSGnfwB4vi2vRWPIOSHymgIu4FCT-_0dwsA0VwJg",
-    head:"Full Stack Development",
-    content:"The Frontend Syllabus starts with programming basics, transitions to Java, covers data structures, and then delves into HTML, CSS, CSS frameworks, animations, Figma, and JavaScript. Learners also explore DOM manipulation, asynchronous JavaScript, and frontend frameworks like React.",
-    date:"19",
-    month:"December"
+    image:"https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?w=996&t=st=1703416197~exp=1703416797~hmac=4a4c534fb7f62453e30076ff22355a091f4dfe3ac5964032814536dbb3d7b9eb",
+    head:"Data Science",
+    content:"The current technological era is full of competition and those who have profound skillset are",
+    date:"25",
+    month:"September"
 
   },
   {
@@ -160,11 +160,11 @@ function App() {
 
   },
   {
-    image:"https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?w=996&t=st=1703416197~exp=1703416797~hmac=4a4c534fb7f62453e30076ff22355a091f4dfe3ac5964032814536dbb3d7b9eb",
-    head:"Data Science",
-    content:"The current technological era is full of competition and those who have profound skillset are",
-    date:"25",
-    month:"September"
+    image:"https://media.licdn.com/dms/image/D5612AQG8dtGvMOsurw/article-cover_image-shrink_720_1280/0/1680236915251?e=2147483647&v=beta&t=n9UiSGnfwB4vi2vRWPIOSHymgIu4FCT-_0dwsA0VwJg",
+    head:"Full Stack Development",
+    content:"The Frontend Syllabus starts with programming basics, transitions to Java, covers data structures, and then delves into HTML, CSS, CSS frameworks, animations, Figma, and JavaScript. Learners also explore DOM manipulation, asynchronous JavaScript, and frontend frameworks like React.",
+    date:"19",
+    month:"December"
 
   }
 ]
